@@ -1,12 +1,10 @@
 # Crypto-Hustle-Lite
 
-## Overview
+## Overview and Features
 
-On My Grind is a quiz game for guessing the recipes of popular and unknown Starbucks drinks, built using React, Vite, HTML, JavaScript, and CSS.
+Crypto Hustle is an application that provides information about various cryptocurrencies through the use of API calls. Users can also search for a specific currency using the search bar feature. This app is part of a lab from Codepath's Web course.
 
-### Gameplay
-
-The game will generate a new drink order for you and ask you to compose it. You will have to memorize the drink recipes over time, selecting the correct option from four different categories: temperature, syrup flavor, milk type, and blended?. For example, if I receive a Hazelnut Oatmilk Latte, then my response should be hot, hazelnut, oat, no.
+Some of the key features of Crypto Hustle include the ability to create an API key and read the API documentation to understand how to make requests. The app uses the useEffect() hook as a replacement for previous mount/unmount functions and fetches API data using async/await syntax. Props are used to send variable data to a component for use in a variety of use cases. Additionally, the app utilizes conditional rendering, either with if statements or ternary operators, to display information on the page only when necessary and return to a default state if not. Finally, the app also practices the use of CSS to format pages.
 
 ## Project Demo
 
