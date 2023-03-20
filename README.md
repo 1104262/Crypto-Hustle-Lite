@@ -1,5 +1,4 @@
 # Crypto-Hustle-Lite
-# On My Grind Lab
 
 ## Overview
 
