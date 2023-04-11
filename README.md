@@ -8,7 +8,7 @@ Crypto Hustle is an application that provides information about various cryptocu
 
 ## Project Demo
 
-<img src="https://recordit.co/wKrXGz8b22" title='Video Demo' width='' alt='Video Demo' />
+<img src="http://recordit.co/wKrXGz8b22" title='Video Demo' width='' alt='Video Demo' />
 
 
 
