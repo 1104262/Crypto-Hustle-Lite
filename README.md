@@ -1,4 +1,4 @@
-# Crypto-Hustle-Lite
+# Crypto-Hustle-Pro
 
 ## Overview and Features
 
